@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lifeways Enterprise Ltd. — Netlify Front-End
 
 A responsive, static front-end for Lifeways Enterprise Ltd. using the supplied logo and project photographs.
@@ -30,3 +31,6 @@ This is the **front-end only**. It has no PHP backend, admin dashboard, staff lo
 The enquiry form uses Netlify Forms markup. Form submissions and notifications must be tested in the deployed Netlify site; they do not submit to a database when previewed as local files.
 
 The project image filenames are retained from the supplied package. Google Fonts are loaded from an external service; system fonts remain fallback options if it is unavailable.
+=======
+# Lifeways-Enterprise-
+>>>>>>> f8916228090b4c7d39fc18c796b3e7d543a759ff
